@@ -110,14 +110,12 @@ namespace Camel_Game
                 {
                     Console.WriteLine("Unknown command.");
                 }
-                
-                }
                 // If the user finds an oasis
                 if (oasis == 20)
                 {
-                    camelFatigue *= 0;
-                    thirst *= 0;
-                    canteen *= 0;
+                    camelFatigue = 0;
+                    thirst = 0;
+                    canteen = 3;
                     Console.WriteLine("You found an oasis! After taking a drink you filled your canteen and the camel is refreshed.");
                 }
                 // When the natives are 15 miles or closer to the user
@@ -126,7 +124,7 @@ namespace Camel_Game
                     Console.WriteLine("The natives are drawing near! Oh no!");
                 }
                 // When the user crosses the desert
-                if (milesTraveled >= 200 || !done)
+                if (milesTraveled >= 200)
                 {
                     Console.WriteLine("You made it across the desert, you win! Yay!");
                     done = true;
@@ -139,7 +137,7 @@ namespace Camel_Game
                     done = true;
                 }
                 // if the user is getting thirsty
-                if (thirst > 4 && thirst <= 6 && !done)
+                if (thirst > 4 && thirst <= 6)
                 {
                     Console.WriteLine("You are thirsty");
                 }
@@ -151,7 +149,7 @@ namespace Camel_Game
                     done = true;
                 }
                 // if the camel is started to get tired
-                if (camelFatigue > 5 && canteen <= 8 && !done)
+                if (camelFatigue > 5 && canteen <= 8)
                 {
                     Console.WriteLine("Your camel is getting tired.");
                 }
@@ -163,6 +161,7 @@ namespace Camel_Game
                     Console.WriteLine("The natives beheaded you. You are now dead. You can restart the game and try again.");
                     done = true;
                 }
+            }
         }
     }
 }

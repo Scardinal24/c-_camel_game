@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sammy.cardinal\\source\\repos\\Camel Game\\Camel Game\\Camel Game.csproj",
+      "projectUniqueName": "C:\\Users\\sammy.cardinal\\Desktop\\Camel Game\\Camel Game.csproj",
       "projectName": "Camel Game",
-      "projectPath": "C:\\Users\\sammy.cardinal\\source\\repos\\Camel Game\\Camel Game\\Camel Game.csproj",
+      "projectPath": "C:\\Users\\sammy.cardinal\\Desktop\\Camel Game\\Camel Game.csproj",
       "packagesPath": "C:\\Users\\sammy.cardinal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sammy.cardinal\\source\\repos\\Camel Game\\Camel Game\\obj\\",
+      "outputPath": "C:\\Users\\sammy.cardinal\\Desktop\\Camel Game\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sammy.cardinal\\AppData\\Roaming\\NuGet\\NuGet.Config",

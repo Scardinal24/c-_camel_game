@@ -12,3 +12,17 @@ C:\Users\sammy.cardinal\source\repos\Camel Game\Camel Game\obj\Debug\netcoreapp3
 C:\Users\sammy.cardinal\source\repos\Camel Game\Camel Game\obj\Debug\netcoreapp3.1\Camel Game.dll
 C:\Users\sammy.cardinal\source\repos\Camel Game\Camel Game\obj\Debug\netcoreapp3.1\Camel Game.pdb
 C:\Users\sammy.cardinal\source\repos\Camel Game\Camel Game\obj\Debug\netcoreapp3.1\Camel Game.genruntimeconfig.cache
+C:\Users\sammy.cardinal\Desktop\Camel Game\bin\Debug\netcoreapp3.1\Camel Game.exe
+C:\Users\sammy.cardinal\Desktop\Camel Game\bin\Debug\netcoreapp3.1\Camel Game.deps.json
+C:\Users\sammy.cardinal\Desktop\Camel Game\bin\Debug\netcoreapp3.1\Camel Game.runtimeconfig.json
+C:\Users\sammy.cardinal\Desktop\Camel Game\bin\Debug\netcoreapp3.1\Camel Game.runtimeconfig.dev.json
+C:\Users\sammy.cardinal\Desktop\Camel Game\bin\Debug\netcoreapp3.1\Camel Game.dll
+C:\Users\sammy.cardinal\Desktop\Camel Game\bin\Debug\netcoreapp3.1\Camel Game.pdb
+C:\Users\sammy.cardinal\Desktop\Camel Game\obj\Debug\netcoreapp3.1\Camel Game.csproj.AssemblyReference.cache
+C:\Users\sammy.cardinal\Desktop\Camel Game\obj\Debug\netcoreapp3.1\Camel Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sammy.cardinal\Desktop\Camel Game\obj\Debug\netcoreapp3.1\Camel Game.AssemblyInfoInputs.cache
+C:\Users\sammy.cardinal\Desktop\Camel Game\obj\Debug\netcoreapp3.1\Camel Game.AssemblyInfo.cs
+C:\Users\sammy.cardinal\Desktop\Camel Game\obj\Debug\netcoreapp3.1\Camel Game.csproj.CoreCompileInputs.cache
+C:\Users\sammy.cardinal\Desktop\Camel Game\obj\Debug\netcoreapp3.1\Camel Game.dll
+C:\Users\sammy.cardinal\Desktop\Camel Game\obj\Debug\netcoreapp3.1\Camel Game.pdb
+C:\Users\sammy.cardinal\Desktop\Camel Game\obj\Debug\netcoreapp3.1\Camel Game.genruntimeconfig.cache
